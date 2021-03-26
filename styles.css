@@ -1,6 +1,20 @@
-header{
-    font-size: 35pt;
-    font-weight: bolder;
-    font; color: royalblue;
-    font-family: Georgia, 'Times New Roman', Times, serif; 
+body{
+    background-color: rgba(15, 194, 218, 0.548);
+    block-size: auto;
+   
+}
+
+h1{
+    font-size: 36pt;
+    font-family: 'Times New Roman', Times, serif;
+    color: royalblue;
+}
+
+h3{
+    font-weight: bold;
+    font-size: 14pt;
+    
+}
+.content.container{
+    
 }
