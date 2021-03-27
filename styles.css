@@ -64,3 +64,9 @@ ul{
     columns: 2;
     line-height: 20pt;
 }
+/* test */
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
