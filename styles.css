@@ -14,8 +14,8 @@ header{
     height: 200px;
     border: 7px solid burlywood; 
     border-radius: 30px;
-    background-color: black;
-    opacity: 92%;
+    background-color: rgba(14, 13, 13, 0.87);
+    opacity: 100%;
 }
 h1{
     font-size: 50pt;
