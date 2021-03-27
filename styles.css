@@ -54,6 +54,5 @@ subheader{
     text-emphasis: 55%;
 }
 ul{
-    /* display: subgrid;
-    columns: 2; */
+    columns: 2;
 }
