@@ -35,9 +35,9 @@ footer{
     text-align: center;
     color: rgba(170, 239, 248, 0.979);
     font-size: 17pt;
-    /* background-color: blanchedalmond;
-    padding-bottom: 15px; */
-    /* height: 350px; */
+    background-color: blanchedalmond;
+    padding-bottom: 15px;
+    height: 350px;
 }
 h2{
     border-radius: 10px;
