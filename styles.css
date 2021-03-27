@@ -30,6 +30,15 @@ h3{
    
 }
 
+footer{
+    margin: auto;
+    text-align: center;
+    color: rgb(33, 212, 235);
+    font-size: 17pt;
+}
+h2{
+    
+}
 p{
     
 }
@@ -64,9 +73,10 @@ ul{
     columns: 2;
     line-height: 20pt;
 }
-/* test */
+
 .fa-linkedin {
     background: #007bb5;
     color: white;
+
   }
   
