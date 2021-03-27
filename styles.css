@@ -45,10 +45,15 @@ p{
     height: 200px;
     background-color: oldlace;
     margin: auto;
+   
     
 }
 
 subheader{
     color: rgb(206, 255, 71);
     text-emphasis: 55%;
+}
+ul{
+    /* display: subgrid;
+    columns: 2; */
 }
