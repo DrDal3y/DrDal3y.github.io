@@ -5,6 +5,7 @@ body{
     background-color: rgba(15, 194, 218, 0.548);
     margin: auto;
     
+    
 }
 
 header{
@@ -42,6 +43,7 @@ p{
     margin: auto;
     border-radius: 20px;
     opacity: 91%;
+    margin-top: 25px;
 }
 .contentlist{
     width: 600px;   
@@ -49,7 +51,9 @@ p{
     background-color: oldlace;
     margin: auto;
     border-radius: 20px;
-   
+   /* opacity: 91%
+   I might add this back but i am thinking of adding a
+   background img  */
     
 }
 
