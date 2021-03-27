@@ -63,4 +63,5 @@ subheader{
 }
 ul{
     columns: 2;
+    line-height: 20pt;
 }
