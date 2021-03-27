@@ -4,8 +4,6 @@ body{
     background-position-y: 65%;
     background-color: rgba(15, 194, 218, 0.548);
     margin: auto;
-    
-    
 }
 
 header{
@@ -44,6 +42,8 @@ p{
     border-radius: 20px;
     opacity: 91%;
     margin-top: 25px;
+    /* need line spacing :line-height: 17pt; but have to play arounnd wiht it */
+
 }
 .contentlist{
     width: 600px;   
