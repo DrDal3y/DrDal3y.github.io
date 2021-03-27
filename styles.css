@@ -4,6 +4,7 @@ body{
     background-position-y: 65%;
     background-color: rgba(15, 194, 218, 0.548);
     margin: auto;
+    position: relative;
 }
 
 header{
