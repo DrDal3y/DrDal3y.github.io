@@ -39,9 +39,14 @@ footer{
     padding-bottom: 15px;
     height: 350px;
     opacity: 90%;
+   
 }
 .LI-profile-badge{
     background-color: white;
+    max-width: 45%;
+    max-height: auto;
+    margin-left: 27%;
+    
 }
 
 h2{
